@@ -1,0 +1,3 @@
+O templete Method define que as classes que partilham métodos e atributos comuns, definindo uma estrutura declarativa e com métodos implementados, que podem levar Override nas classes descendentes.
+As classes AbstractList, AbstractSet e AbstractMap derivam todas da mesma classe AbstractCollection herdando as suas propriedades e adapando-as quando necessário.
+

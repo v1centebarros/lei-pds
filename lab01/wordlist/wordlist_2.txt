@@ -1,0 +1,4 @@
+list graph
+stack,queue,tree,vasco
+Silvia
+Jose;teste,programa
